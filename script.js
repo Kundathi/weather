@@ -24,7 +24,12 @@ const weatherData = {
         temperature: 25,
         humidity: 50,
         description: "Windy",
-    }
+    },
+        "Sankarankoil": {
+        temperature: 25,
+        humidity: 50,
+        description: "Windy",
+    },
 };
 
 // Function to get weather data from the hardcoded list
